@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"sandbox/services"
+
+	"github.com/skillsworld46/go-tdd-sandbox/services"
 )
 
 func main() {

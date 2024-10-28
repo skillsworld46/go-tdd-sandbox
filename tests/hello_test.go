@@ -1,8 +1,9 @@
 package main
 
 import (
-	"sandbox/services"
 	"testing"
+
+	"github.com/skillsworld46/go-tdd-sandbox/services"
 )
 
 func TestHello(t *testing.T) {
